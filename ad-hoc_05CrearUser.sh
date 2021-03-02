@@ -1,5 +1,5 @@
 # anadir un usuario
-
+#!/bin/bash
 #  ansible.builtin.user:
 #    name: johnd
 #    comment: John Doe

@@ -1,4 +1,5 @@
 # Anadir una linea a un fichero
+#!/bin/bash
 
 # hosts: nodos
 #  tasks:
